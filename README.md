@@ -16,7 +16,6 @@
     rel="noreferrer"> <img
       src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3"
       width="100" height="100" /> </a>
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" alt="c"/> </a>
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif"
       alt="bootstrap" width="100" height="100" /> </a>
