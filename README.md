@@ -27,8 +27,7 @@
 
    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/Vc64hRodlWNoj3sMxu/giphy.gif" alt="ubuntu" height="100" width="100" />
    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="pycharm" height="100" width="90" />
-   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/markdown-3630174-3031306.png" alt="Markdown" height="100" width="100" />
-</p>
+
 
 <p  align="center">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
