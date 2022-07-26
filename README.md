@@ -28,7 +28,6 @@
    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="pycharm" height="100" width="90" />
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 <br>
   <br>
   <br>
