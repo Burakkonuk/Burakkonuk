@@ -2,7 +2,7 @@
 <div align="center" width="50">
 
 <img src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" alt="Welcome!" width="300"/>
-
+<p> Currently working on react Js</p>
 </div>
 
 <h3>💻 Technology Stack</h3>
