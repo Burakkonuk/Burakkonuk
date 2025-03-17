@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <img src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" alt="Welcome!" width="300"/>
-<p> Currently Working on Oracle ERP </p>
+<p> Patates </p>
 </div>
 https://burakkonuk.github.io/burakkkonuk/
 <h3>💻 Technology Stack</h3>
